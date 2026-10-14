@@ -1,0 +1,16 @@
+# Ficheiros Python gerados pelo GNU Radio Companion
+/grc/*.py
+
+# Cache e ficheiros compilados do Python
+__pycache__/
+*.pyc
+
+# Ficheiros temporários e de registo
+*.log
+*.tmp
+
+# Ficheiros temporários do GNU Radio Companion
+*.grc.bak
+
+# Ficheiros específicos do Windows
+Thumbs.db
